@@ -17,7 +17,7 @@ func main() {
 	e := echo.New()
 	e.HideBanner = true
 
-	e.POST("/", upload)
+	e.POST("/", Upload)
 
 	log.Fatal(e.Start(":1923"))
 }
@@ -61,7 +61,7 @@ func CsvToExcel(file *multipart.FileHeader) (string, error) {
 	return newFileName, nil
 }
 
-func upload(c echo.Context) error {
+func Upload(c echo.Context) error {
 
 	f, err := c.FormFile("file")
 
