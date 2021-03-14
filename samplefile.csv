@@ -1,0 +1,28 @@
+code,Business,address,Address2,City,state,Zip,Time Zone,Integer,float
+WBIS1,Taxi 9000,3750 East Rosser Avenue,,Bismarck,ND,58501,Central Standard Time,3,0.5
+WBNA1,UPS Supply Chain Solutions,516 Ligon Drive,,Nashville,TN,37204,Central Standard Time,4,1.333333333
+WCGI1,Kelly Transportation,41 N Sprigg Street,,Cape Girardeau,MO,63701,Central Standard Time,1,0.2
+WCID1,Velocity Express,640 63rd Avenue SW,,Cedar Rapids,IA,52404,Central Standard Time,4,1
+WCLE1,UPS Supply Chain Solutions,55 Andrews Circle,,Brecksville,OH,44141,Eastern Standard Time,5,1
+WCOS1,UPS Supply Chain Solutions,802 W Garden of the Gods Road,,Colorado Springs,CO,80907,Mountain Standard Time,8,2
+WCYS1,Security Armored Express,1719 Pacific Avenue,,Cheyenne,WY,82007,Mountain Standard Time,6,2
+WDCA1,UPS Supply Chain Solutions,13878 Park Center Road,"Building 5, Bay 17 & 18",Herndon,VA,20171,Eastern Standard Time,7,1.75
+WDEN1,UPS Supply Chain Solutions,4401 East 46th Avenue,Suite A,Denver,CO,80216,Mountain Standard Time,8,1.6
+WEUG1,Aero United,1380 West 2nd Avenue,Suite 1,Eugene,OR,97402,Pacific Standard Time,5,1.666666667
+WHNL1,UPS Supply Chain Solutions,449 Cooke Street,,Honolulu,HI,96813,AlaskaHawaii Standard Time,9,2.25
+WJNU1,Juneau Couriers,10155 Jensine Street,,Juneau,AK,99801,AlaskaHawaii Standard Time,9,1.8
+WLAS1,Hilford Moving & Storage,4701 Cameron Street,Suite M,Las Vegas,NV,89103,Pacific Standard Time,3,0.75
+WLBF1,Yellow Cab,512 North Bailey Avenue,,North Platte,NE,69101,Central Standard Time,6,2
+WPIH1,Pocatello,243 West Center Street,,Pocatello,ID,83204,Mountain Standard Time,7,2.333333333
+WPIT2,UPS Supply Chain Solutions,304-306 Thomson Park Drive,,Cranberry,PA,16066,Eastern Standard Time,8,2
+WPNS1,VELOCITY EXPRESS,3355 Copter Road,Unit 1,Pensacola,FL,32514,Central Standard Time,9,1.8
+WPSC1,Greyhound Lines Inc,535 N. 1st Avenue,,Pasco,WA,99302,Pacific Standard Time,1,0.166666667
+WSBP1,ABS Delivery Services,750 Farroll Road,Unit J,Grover Beach,CA,93433,Pacific Standard Time,4,0.666666667
+WSGU1,Cataralex,237 North Bluff Street,,St George,UT,84770,Mountain Standard Time,9,3
+WSJT1,Yellow Cab,1302 South Oakes Street,,San Angelo,TX,76903,Central Standard Time,3,0.5
+WSLC1,UPS Supply Chain Solutions,997 W 3160 South,,Salt Lake City,UT,84119,Mountain Standard Time,4,1.333333333
+WSMF1,UPS Supply Chain Solutions,4512 Harlin Drive,,Sacramento,CA,95826,Pacific Standard Time,5,1.25
+WTPA1,UPS Supply Chain Solutions,205 Kelsey Lane,Suite D,Tampa,FL,33619,Eastern Standard Time,9,2.25
+WTUS1,Global Services,1668 South Research Loop,Suite 332,Tucson,AZ,85710,Pacific Standard Time,3,1
+WTVC1,Diamond Rental and Leasing,3020 Cass Road,,Traverse City,MI,49684,Eastern Standard Time,4,1
+99999,Error Producing Line,This is not a real address,,Nowhere,ZZ,0,none,0,0
