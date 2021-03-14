@@ -28,14 +28,15 @@ func CsvToExcel(fileName string) error {
 		return errors.New("The extension is not CSV")
 	}
 
-	const sheet string = "Sheet1"
-	var letters = [...]string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"}
-
 	src, err := os.Open(fileName)
 	if err != nil {
 		return err
 	}
 	defer src.Close()
+
+	const sheet string = "Sheet1"
+	var letters = [...]string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"}
+	
 	csvLines, err := csv.NewReader(src).ReadAll()
 	if err != nil {
 		return err
